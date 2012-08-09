@@ -60,7 +60,7 @@ You will need [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for Vagran
     $ mason stacks:up lucid64
     * booting stack lucid64 (this may take a while)... done
 
-    $ mason:build /tmp/app -t tgz -o /tmp/compiled.tgz -s lucid64
+    $ mason build /tmp/app -t tgz -o /tmp/compiled.tgz -s lucid64
     * booting stack lucid64 (this may take a while)... done
 	* detecting buildpack... done
 	  = name: Baz
